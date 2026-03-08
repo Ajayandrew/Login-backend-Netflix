@@ -2,13 +2,13 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Ajayandrew/Login-page-of-Netflix#readme",
+  "homepage": "https://github.com/Ajayandrew/Netflix-Login#readme",
   "bugs": {
-    "url": "https://github.com/Ajayandrew/Login-page-of-Netflix/issues"
+    "url": "https://github.com/Ajayandrew/Netflix-Login/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajayandrew/Login-page-of-Netflix.git"
+    "url": "git+https://github.com/Ajayandrew/Netflix-Login.git"
   },
   "license": "ISC",
   "author": "",
